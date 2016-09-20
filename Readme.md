@@ -16,6 +16,7 @@ Also check out our [Devpost Submission](http://devpost.com/software/bitcard-back
 
 ## How to use
 Unfortunately, the Capital One Nessie API does not allow for real transactions. But, if you still want to try it out:
+
 1. `git clone` this repository
 1. Load this folder into Google Chrome via the extension developer tools
 1. Enjoy!
